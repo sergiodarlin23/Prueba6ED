@@ -1,0 +1,16 @@
+package prueba6ed;
+
+/**
+ *
+ * @author usuario
+ */
+public class Prueba6ED {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        System.out.println("Hola me llamo Sergio Abelairas.");
+    }
+    
+}
